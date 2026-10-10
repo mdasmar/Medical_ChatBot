@@ -9,4 +9,7 @@ langchain_community
 langchain_experimental
 google-genai
 langchain-text-splitters
+ipykernel
+pinecone
+langchain-google-genai
 -e .
